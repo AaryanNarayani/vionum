@@ -2,7 +2,7 @@
 
 **Fast settlement for obvious prediction-market outcomes.**
 
-Vionum is an AI oracle that resolves clear prediction-market claims in minutes, not hours—without asking operators to trust a black box.
+Vionum is an AI oracle that resolves clear prediction-market claims in minutes, not hours: without asking operators to trust a black box.
 
 ---
 
@@ -26,16 +26,16 @@ In prediction markets, this creates visible product failure:
 
 ## The Solution
 
-Vionum is a constrained, evidence-first AI oracle that separates obvious outcomes from ambiguous ones—and settles the obvious ones much faster.
+Vionum is a constrained, evidence-first AI oracle that separates obvious outcomes from ambiguous ones and settles the obvious ones much faster.
 
 ### How It Works
 
-1. **Claim** — Accept a structured prediction-market claim
-2. **Evidence** — Retrieve data only from approved, whitelisted sources
-3. **Council** — Run multi-agent evaluation over that evidence
-4. **Verdict** — Produce a verdict, confidence score, and evidence summary
+1. **Claim**: Accept a structured prediction-market claim
+2. **Evidence**: Retrieve data only from approved, whitelisted sources
+3. **Council**: Run multi-agent evaluation over that evidence
+4. **Verdict**: Produce a verdict, confidence score, and evidence summary
 
-**Key principle:** Low-confidence or disputed outcomes escalate to human fallback. Vionum doesn't replace all human judgment—it handles the obvious cases so humans can focus on the hard ones.
+**Key principle:** Low-confidence or disputed outcomes escalate to human fallback. Vionum doesn't replace all human judgment: it handles the obvious cases so humans can focus on the hard ones.
 
 ---
 
@@ -43,11 +43,11 @@ Vionum is a constrained, evidence-first AI oracle that separates obvious outcome
 
 Trust is not about hype. It's about operational safety.
 
-- **Approved sources only** — No arbitrary web scraping
-- **Confidence thresholds** — Auto-resolve only when confidence is high
-- **Audit trail** — Every verdict shows exactly what evidence was used
-- **Human fallback** — Ambiguous cases escalate automatically
-- **Gradual rollout** — Operators control when and how to introduce Vionum
+- **Approved sources only**: No arbitrary web scraping
+- **Confidence thresholds**: Auto-resolve only when confidence is high
+- **Audit trail**: Every verdict shows exactly what evidence was used
+- **Human fallback**: Ambiguous cases escalate automatically
+- **Gradual rollout**: Operators control when and how to introduce Vionum
 
 Vionum is designed for adoption safety, not just technical cleverness.
 
@@ -134,9 +134,9 @@ The landing page is built with:
 ### Design Principles
 
 The landing page should feel:
-- **Expensive, futuristic, and calm** — not cyberpunk, not meme-y
+- **Expensive, futuristic, and calm**: not cyberpunk, not meme-y
 - **Like financial infrastructure meets intelligence layer**
-- **Sharp, modern, and trust-heavy** — not generic AI vaporware
+- **Sharp, modern, and trust-heavy**: not generic AI vaporware
 
 Visual direction:
 - Dark, atmospheric background with depth
@@ -187,4 +187,4 @@ For demo requests, partnership inquiries, or hackathon collaboration:
 
 ---
 
-**Vionum** — Truth, computed.
+**Vionum**: Truth, computed.
